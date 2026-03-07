@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="AudioBabble Scripts" commit="395c64b158bcbcb08690d58526d6fee0637351d5">
+<index version="1" name="AudioBabble Scripts" commit="b2d1dee4e59631833783974185e0c83bc3fd964f">
   <category name="markers">
     <reapack name="regions_Insert custom colour and name.lua" type="script" desc="regions_Insert custom colour and name">
       <metadata>
@@ -7,7 +7,7 @@
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa180 \li0 \fi0 Inserts a custom region with a specified name and color\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Inserts a custom region with a specified name and color at the time selection.\par}
 }
 ]]></description>
       </metadata>
