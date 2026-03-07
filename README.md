@@ -1,1 +1,1 @@
-# AudioBabble's Reapack Repo scripts for REAPER
+# AudioBabble's Reapack Repo: scripts for REAPER
