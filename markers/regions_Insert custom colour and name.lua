@@ -37,7 +37,7 @@ Black =  reaper.ColorToNative(0,0,0)|0x1000000
 
 -- Set custom name and colour here:
 name = "custom name"   --<<<<<<--Marker Name
-color = blue           --<<<<<<--Marker Color
+color = blue           --<<<<<<--Marker Colour
 
 start_pos, end_pos = reaper.GetSet_LoopTimeRange(false, false, 0, 0, false)
 
