@@ -1,4 +1,4 @@
 # AudioBabble's Reapack Repo: scripts for REAPER
 
-## import repo to reapack:
+## Import this repo in ReaPack REAPER extension:
 https://raw.githubusercontent.com/AudioBabbL/AudioBabble-ReaPack-Scripts/master/index.xml
