@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="AudioBabble Scripts" commit="b2d1dee4e59631833783974185e0c83bc3fd964f">
+<index version="1" name="AudioBabble Scripts" commit="ccdbb1760e2088edbb906f53dd5ad6b7b3c309d4">
   <category name="markers">
     <reapack name="regions_Insert custom colour and name.lua" type="script" desc="regions_Insert custom colour and name">
       <metadata>
@@ -10,6 +10,7 @@
 {\pard \ql \f0 \sa180 \li0 \fi0 Inserts a custom region with a specified name and color at the time selection.\par}
 }
 ]]></description>
+        <link rel="donation">https://paypal.me/audiobabble</link>
       </metadata>
       <version name="1.0" author="AudioBabble" time="2026-03-07T03:18:31Z">
         <changelog><![CDATA[+ Initial Release]]></changelog>
@@ -24,9 +25,8 @@
 
 {\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 AudioBabble's Reapack Repo: scripts for REAPER\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Copy this link address into > REAPER > extensions > ReaPack > Import Repositories...\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 https://raw.githubusercontent.com/AudioBabbL/AudioBabble-ReaPack-Scripts/master/index.xml\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 https://raw.githubusercontent.com/AudioBabbL/AudioBabble-ReaPack-Scripts/master/index.xml\par}
 {\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Tip Jar: https://paypal.me/audiobabble\par}
 }
 ]]></description>
   </metadata>
