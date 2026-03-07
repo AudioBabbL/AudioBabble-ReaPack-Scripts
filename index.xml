@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="AudioBabble Scripts" commit="b0b7089d8f6ae579346305c33ce51784faf9947d">
+<index version="1" name="AudioBabble Scripts" commit="395c64b158bcbcb08690d58526d6fee0637351d5">
+  <category name="markers">
+    <reapack name="regions_Insert custom colour and name.lua" type="script" desc="regions_Insert custom colour and name">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Inserts a custom region with a specified name and color\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="AudioBabble" time="2026-03-07T03:18:31Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/AudioBabbL/AudioBabble-ReaPack-Scripts/raw/395c64b158bcbcb08690d58526d6fee0637351d5/markers/regions_Insert%20custom%20colour%20and%20name.lua</source>
+      </version>
+    </reapack>
+  </category>
   <metadata>
     <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
 {\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 AudioBabble's Reapack Repo: scripts for REAPER\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Import this repo in ReaPack REAPER extension:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Copy this link address into > REAPER > extensions > ReaPack > Import Repositories...\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 https://raw.githubusercontent.com/AudioBabbL/AudioBabble-ReaPack-Scripts/master/index.xml\par}
 }
 ]]></description>
