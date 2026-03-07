@@ -4,4 +4,4 @@
 https://raw.githubusercontent.com/AudioBabbL/AudioBabble-ReaPack-Scripts/master/index.xml
 
 
-Tip Jar: https://patpale.me/audiobabble
+Tip Jar: https://paypal.me/audiobabble
