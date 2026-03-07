@@ -2,7 +2,8 @@
  * ReaScript Name: regions_Insert custom colour and name
  * About: Inserts a custom region with a specified name and color at the time selection.
  * Author: AudioBabble
- * Repository: GitHub > AudioBabbL > REAPER-ReaPack
+ * Donation: https://paypal.me/audiobabble
+ * Repository: GitHub > AudioBabbL > AudioBabble-ReaPack-Scripts
  * Repository URI: https://github.com/AudioBabbL/AudioBabble-ReaPack-Scripts/
  * Licence: GPL v3
  * REAPER: 7.0
