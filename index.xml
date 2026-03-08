@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="AudioBabble Scripts" commit="fabf589650347815c2288a40e0a7a126a7a7d18c">
+<index version="1" name="AudioBabble Scripts" commit="3412fc2067a61a498477046c7e42d187146e8517">
   <category name="markers">
     <reapack name="regions_Insert custom colour and name.lua" type="script" desc="regions_Insert custom colour and name">
       <metadata>
@@ -35,7 +35,7 @@
         <source main="main">https://github.com/AudioBabbL/AudioBabble-ReaPack-Scripts/raw/fabf589650347815c2288a40e0a7a126a7a7d18c/stretch%20markers/stretch-markers_Move%20closest%20to%20edit%20cursor.lua</source>
       </version>
     </reapack>
-    <reapack name="stretch-markers_move under edit cursor Left by grid and move edit cursor.lua" type="script" desc="stretch-markers_move under edit cursor Left by grid and move edit cursor">
+    <reapack name="stretch-markers_move under edit cursor Left by grid and move edit cursor.lua" type="script" desc="stretch-markers_Move under edit cursor Left by grid and move edit cursor">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
