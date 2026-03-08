@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="AudioBabble Scripts" commit="3412fc2067a61a498477046c7e42d187146e8517">
-  <category name="markers">
-    <reapack name="regions_Insert custom colour and name.lua" type="script" desc="regions_Insert custom colour and name">
+<index version="1" name="AudioBabble Scripts" commit="4072e2e54949268bdc414ebfc959767590795025">
+  <category name="markers_regions">
+    <reapack name="markers_regions_Insert custom colour and name.lua" type="script" desc="markers_regions_Insert custom colour and name">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -12,14 +12,14 @@
 ]]></description>
         <link rel="donation">https://paypal.me/audiobabble</link>
       </metadata>
-      <version name="1.0" author="AudioBabble" time="2026-03-07T03:18:31Z">
+      <version name="1.0" author="AudioBabble" time="2026-03-08T02:43:22Z">
         <changelog><![CDATA[+ Initial Release]]></changelog>
-        <source main="main">https://github.com/AudioBabbL/AudioBabble-ReaPack-Scripts/raw/395c64b158bcbcb08690d58526d6fee0637351d5/markers/regions_Insert%20custom%20colour%20and%20name.lua</source>
+        <source main="main">https://github.com/AudioBabbL/AudioBabble-ReaPack-Scripts/raw/4072e2e54949268bdc414ebfc959767590795025/markers_regions/markers_regions_Insert%20custom%20colour%20and%20name.lua</source>
       </version>
     </reapack>
   </category>
-  <category name="stretch markers">
-    <reapack name="stretch-markers_Move closest to edit cursor.lua" type="script" desc="stretch-markers_Move closest to edit cursor">
+  <category name="markers_stretch">
+    <reapack name="markers_stretch_Move closest to edit cursor.lua" type="script" desc="markers_stretch_Move closest to edit cursor">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -30,12 +30,12 @@
 ]]></description>
         <link rel="donation">https://paypal.me/audiobabble</link>
       </metadata>
-      <version name="1.0" author="AudioBabble" time="2026-03-08T02:30:57Z">
+      <version name="1.0" author="AudioBabble" time="2026-03-08T02:43:22Z">
         <changelog><![CDATA[+ Initial Release]]></changelog>
-        <source main="main">https://github.com/AudioBabbL/AudioBabble-ReaPack-Scripts/raw/fabf589650347815c2288a40e0a7a126a7a7d18c/stretch%20markers/stretch-markers_Move%20closest%20to%20edit%20cursor.lua</source>
+        <source main="main">https://github.com/AudioBabbL/AudioBabble-ReaPack-Scripts/raw/4072e2e54949268bdc414ebfc959767590795025/markers_stretch/markers_stretch_Move%20closest%20to%20edit%20cursor.lua</source>
       </version>
     </reapack>
-    <reapack name="stretch-markers_move under edit cursor Left by grid and move edit cursor.lua" type="script" desc="stretch-markers_Move under edit cursor Left by grid and move edit cursor">
+    <reapack name="markers_stretch_Move under edit cursor Left by grid and move edit cursor.lua" type="script" desc="markers_stretch_Move under edit cursor Left by grid and move edit cursor">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -46,12 +46,12 @@
 ]]></description>
         <link rel="donation">https://paypal.me/audiobabble</link>
       </metadata>
-      <version name="1.0" author="AudioBabble" time="2026-03-08T02:30:57Z">
+      <version name="1.0" author="AudioBabble" time="2026-03-08T02:43:22Z">
         <changelog><![CDATA[+ Initial Release]]></changelog>
-        <source main="main">https://github.com/AudioBabbL/AudioBabble-ReaPack-Scripts/raw/fabf589650347815c2288a40e0a7a126a7a7d18c/stretch%20markers/stretch-markers_move%20under%20edit%20cursor%20Left%20by%20grid%20and%20move%20edit%20cursor.lua</source>
+        <source main="main">https://github.com/AudioBabbL/AudioBabble-ReaPack-Scripts/raw/4072e2e54949268bdc414ebfc959767590795025/markers_stretch/markers_stretch_Move%20under%20edit%20cursor%20Left%20by%20grid%20and%20move%20edit%20cursor.lua</source>
       </version>
     </reapack>
-    <reapack name="stretch-markers_Move under edit cursor Right by grid and move edit cursor.lua" type="script" desc="stretch-markers_Move under edit cursor Right by grid and move edit cursor">
+    <reapack name="markers_stretch_Move under edit cursor Right by grid and move edit cursor.lua" type="script" desc="markers_stretch_Move under edit cursor Right by grid and move edit cursor">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -62,9 +62,9 @@
 ]]></description>
         <link rel="donation">https://paypal.me/audiobabble</link>
       </metadata>
-      <version name="1.0" author="AudioBabble" time="2026-03-08T02:30:57Z">
+      <version name="1.0" author="AudioBabble" time="2026-03-08T02:43:22Z">
         <changelog><![CDATA[+ Initial Release]]></changelog>
-        <source main="main">https://github.com/AudioBabbL/AudioBabble-ReaPack-Scripts/raw/fabf589650347815c2288a40e0a7a126a7a7d18c/stretch%20markers/stretch-markers_Move%20under%20edit%20cursor%20Right%20by%20grid%20and%20move%20edit%20cursor.lua</source>
+        <source main="main">https://github.com/AudioBabbL/AudioBabble-ReaPack-Scripts/raw/4072e2e54949268bdc414ebfc959767590795025/markers_stretch/markers_stretch_Move%20under%20edit%20cursor%20Right%20by%20grid%20and%20move%20edit%20cursor.lua</source>
       </version>
     </reapack>
   </category>
