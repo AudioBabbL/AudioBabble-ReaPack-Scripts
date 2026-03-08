@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="AudioBabble Scripts" commit="ccdbb1760e2088edbb906f53dd5ad6b7b3c309d4">
+<index version="1" name="AudioBabble Scripts" commit="fabf589650347815c2288a40e0a7a126a7a7d18c">
   <category name="markers">
     <reapack name="regions_Insert custom colour and name.lua" type="script" desc="regions_Insert custom colour and name">
       <metadata>
@@ -18,6 +18,56 @@
       </version>
     </reapack>
   </category>
+  <category name="stretch markers">
+    <reapack name="stretch-markers_Move closest to edit cursor.lua" type="script" desc="stretch-markers_Move closest to edit cursor">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Moves the closest stretch marker in the currently selected item to the edit cursor position\par}
+}
+]]></description>
+        <link rel="donation">https://paypal.me/audiobabble</link>
+      </metadata>
+      <version name="1.0" author="AudioBabble" time="2026-03-08T02:30:57Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/AudioBabbL/AudioBabble-ReaPack-Scripts/raw/fabf589650347815c2288a40e0a7a126a7a7d18c/stretch%20markers/stretch-markers_Move%20closest%20to%20edit%20cursor.lua</source>
+      </version>
+    </reapack>
+    <reapack name="stretch-markers_move under edit cursor Left by grid and move edit cursor.lua" type="script" desc="stretch-markers_move under edit cursor Left by grid and move edit cursor">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 -- If there is a stretch marker under the edit cursor in the currently selected item, moves the cursor left by one grid division using action 40646, and moves the stretch marker to that position.\par}
+}
+]]></description>
+        <link rel="donation">https://paypal.me/audiobabble</link>
+      </metadata>
+      <version name="1.0" author="AudioBabble" time="2026-03-08T02:30:57Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/AudioBabbL/AudioBabble-ReaPack-Scripts/raw/fabf589650347815c2288a40e0a7a126a7a7d18c/stretch%20markers/stretch-markers_move%20under%20edit%20cursor%20Left%20by%20grid%20and%20move%20edit%20cursor.lua</source>
+      </version>
+    </reapack>
+    <reapack name="stretch-markers_Move under edit cursor Right by grid and move edit cursor.lua" type="script" desc="stretch-markers_Move under edit cursor Right by grid and move edit cursor">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 -- If there is a stretch marker under the edit cursor in the currently selected item, moves the cursor right by one grid division using action 40646, and moves the stretch marker to that position.\par}
+}
+]]></description>
+        <link rel="donation">https://paypal.me/audiobabble</link>
+      </metadata>
+      <version name="1.0" author="AudioBabble" time="2026-03-08T02:30:57Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/AudioBabbL/AudioBabble-ReaPack-Scripts/raw/fabf589650347815c2288a40e0a7a126a7a7d18c/stretch%20markers/stretch-markers_Move%20under%20edit%20cursor%20Right%20by%20grid%20and%20move%20edit%20cursor.lua</source>
+      </version>
+    </reapack>
+  </category>
   <metadata>
     <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -30,6 +80,6 @@
 }
 ]]></description>
     <link rel="donation">https://paypal.me/audiobabble</link>
-    <link rel="website"></link>
+    <link rel="website"/>
   </metadata>
 </index>
