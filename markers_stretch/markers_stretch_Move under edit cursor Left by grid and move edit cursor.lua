@@ -1,5 +1,5 @@
 --[[
- * ReaScript Name: stretch-markers_Move under edit cursor Left by grid and move edit cursor
+ * ReaScript Name: markers_stretch_Move under edit cursor Left by grid and move edit cursor
  * About: -- If there is a stretch marker under the edit cursor in the currently selected item, moves the cursor left by one grid division using action 40646, and moves the stretch marker to that position.
  * Author: AudioBabble
  * Donation: https://paypal.me/audiobabble

@@ -1,5 +1,5 @@
 --[[
- * ReaScript Name: regions_Insert custom colour and name
+ * ReaScript Name: markers_regions_Insert custom colour and name
  * About: Inserts a custom region with a specified name and color at the time selection.
  * Author: AudioBabble
  * Donation: https://paypal.me/audiobabble

@@ -1,5 +1,5 @@
 --[[
- * ReaScript Name: stretch-markers_Move closest to edit cursor
+ * ReaScript Name: markers_stretch_Move closest to edit cursor
  * About: Moves the closest stretch marker in the currently selected item to the edit cursor position
  * Author: AudioBabble
  * Donation: https://paypal.me/audiobabble
